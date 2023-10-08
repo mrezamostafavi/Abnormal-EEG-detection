@@ -22,6 +22,9 @@ python abnormal_eeg_detection.py
 ## References
 Please refer to the original paper for more details about the methodology and findings of this project. You can find the original paper [here](https://doi.org/10.1007/s00521-018-3889-z).
 
+## Results
+![Accuracy](accuracy.png)
+
 ## Contact
 If you have any questions or suggestions, feel free to contact us at [mrezamostafavi98@gmail.com](mailto:mrezamostafavi98@gmail.com).
 

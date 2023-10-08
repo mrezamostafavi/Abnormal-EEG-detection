@@ -20,7 +20,7 @@ pip install tensorflow
 python abnormal_eeg_detection.py
 
 ## References
-Please refer to the original paper for more details about the methodology and findings of this project. The paper is included in the repository for your reference.
+Please refer to the original paper for more details about the methodology and findings of this project. You can find the original paper [here](https://doi.org/10.1007/s00521-018-3889-z).
 
 ## Contributing
 Contributions to this project are welcome! If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.

@@ -1,4 +1,4 @@
-# Abnormal EEG Signal Detection
+# Abnormal EEG Detection
 
 ## Overview
 This project is focused on the detection of abnormal EEG (Electroencephalogram) signals using the TUH abnormal dataset. We employ a 1D-CNN (Convolutional Neural Network) model for classification, implemented in Python with the TensorFlow library. The dataset used in this project is publicly available, making it easy for others to reproduce and extend our work.

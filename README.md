@@ -26,6 +26,9 @@ Please refer to the original paper for more details about the methodology and fi
 ![Accuracy](accuracy.png)
 ![Loss](loss.png)
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contact
 If you have any questions or suggestions, feel free to contact us at [mrezamostafavi98@gmail.com](mailto:mrezamostafavi98@gmail.com).
 

@@ -24,6 +24,7 @@ Please refer to the original paper for more details about the methodology and fi
 
 ## Results
 ![Accuracy](accuracy.png)
+![Loss](loss.png)
 
 ## Contact
 If you have any questions or suggestions, feel free to contact us at [mrezamostafavi98@gmail.com](mailto:mrezamostafavi98@gmail.com).
